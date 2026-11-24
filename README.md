@@ -2,7 +2,7 @@
 
 Removes names, companies, e-mail addresses and account paths from a corpus of engineering files, while keeping every file usable in its CAD tool.
 
-Built for the Machina CAD De-ID track at the Builders Buildathon. It scored 850 of 1,000 points and placed 3rd of 167 teams. 
+Built for the CAD De-ID track by [Machina](https://machina.how) at the Builders Buildathon. It scored 850 of 1,000 points and placed 3rd of 167 teams.
 
 ## The problem
 
