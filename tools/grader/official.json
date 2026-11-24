@@ -1,0 +1,92 @@
+{
+ "1": {
+  "leakage": 1,
+  "pseudonym_consistency": 0,
+  "distinct_identities": 2,
+  "relationships": 17,
+  "engineering_preservation": 15,
+  "native_ole_hidden": 3,
+  "packaging": 5,
+  "pdf_scoped_removal": 0,
+  "cross_pdf_consistency": 0,
+  "noncollision_triplets": 0,
+  "drawing_model": 200,
+  "ole_saved_account": 0,
+  "ole_residue": 0,
+  "ole_preview": 25,
+  "ole_container": 25,
+  "_total": 293,
+  "_not_checked": {
+   "relationships": 2,
+   "packaging": 2
+  }
+ },
+ "2": {
+  "leakage": 5,
+  "pseudonym_consistency": 4,
+  "distinct_identities": 1,
+  "relationships": 10,
+  "engineering_preservation": 10,
+  "native_ole_hidden": 2,
+  "packaging": 1,
+  "pdf_scoped_removal": 198,
+  "cross_pdf_consistency": 88,
+  "noncollision_triplets": 17,
+  "drawing_model": 155,
+  "ole_saved_account": 2,
+  "ole_residue": 2,
+  "ole_preview": 25,
+  "ole_container": 25,
+  "_total": 545,
+  "_not_checked": {
+   "relationships": 2,
+   "packaging": 2
+  }
+ },
+ "3": {
+  "leakage": 7,
+  "pseudonym_consistency": 4,
+  "distinct_identities": 1,
+  "relationships": 10,
+  "engineering_preservation": 10,
+  "native_ole_hidden": 2,
+  "packaging": 1,
+  "pdf_scoped_removal": 215,
+  "cross_pdf_consistency": 103,
+  "noncollision_triplets": 22,
+  "drawing_model": 155,
+  "ole_saved_account": 3,
+  "ole_residue": 3,
+  "ole_preview": 25,
+  "ole_container": 25,
+  "_total": 586,
+  "_not_checked": {
+   "relationships": 2,
+   "packaging": 2
+  },
+  "_code": "97a4875 (natives2 on 2 of 4 boxes); replica run m"
+ },
+ "4": {
+  "leakage": 7,
+  "pseudonym_consistency": 3,
+  "distinct_identities": 1,
+  "relationships": 10,
+  "engineering_preservation": 10,
+  "native_ole_hidden": 4,
+  "packaging": 1,
+  "pdf_scoped_removal": 218,
+  "cross_pdf_consistency": 104,
+  "noncollision_triplets": 21,
+  "drawing_model": 152,
+  "ole_saved_account": 24,
+  "ole_residue": 24,
+  "ole_preview": 25,
+  "ole_container": 25,
+  "_total": 629,
+  "_not_checked": {
+   "relationships": 2,
+   "packaging": 2
+  },
+  "_code": "522b375"
+ }
+}

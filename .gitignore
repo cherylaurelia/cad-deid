@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+curated.tsv
+*.key
+manifest.tsv
+input/
+out/
+private/
